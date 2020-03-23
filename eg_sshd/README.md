@@ -22,4 +22,4 @@ root@f38c87f2a42d:/#
 ```
 
 ### More information
-* [SSH Service] (https://docs.docker.com/engine/examples/running_ssh_service/) - Tutorial labs from [Docker Docs].(https://docs.docker.com/)
+* [SSH Service](https://docs.docker.com/engine/examples/running_ssh_service/) - Tutorial labs from [Docker Docs](https://docs.docker.com/).
